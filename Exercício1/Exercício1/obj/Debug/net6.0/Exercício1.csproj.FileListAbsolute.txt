@@ -1,0 +1,15 @@
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Exercício1\Exercício1\bin\Debug\net6.0\Exercício1.exe
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Exercício1\Exercício1\bin\Debug\net6.0\Exercício1.deps.json
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Exercício1\Exercício1\bin\Debug\net6.0\Exercício1.runtimeconfig.json
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Exercício1\Exercício1\bin\Debug\net6.0\Exercício1.dll
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Exercício1\Exercício1\bin\Debug\net6.0\Exercício1.pdb
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Exercício1\Exercício1\obj\Debug\net6.0\Exercício1.csproj.AssemblyReference.cache
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Exercício1\Exercício1\obj\Debug\net6.0\Exercício1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Exercício1\Exercício1\obj\Debug\net6.0\Exercício1.AssemblyInfoInputs.cache
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Exercício1\Exercício1\obj\Debug\net6.0\Exercício1.AssemblyInfo.cs
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Exercício1\Exercício1\obj\Debug\net6.0\Exercício1.csproj.CoreCompileInputs.cache
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Exercício1\Exercício1\obj\Debug\net6.0\Exercício1.dll
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Exercício1\Exercício1\obj\Debug\net6.0\refint\Exercício1.dll
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Exercício1\Exercício1\obj\Debug\net6.0\Exercício1.pdb
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Exercício1\Exercício1\obj\Debug\net6.0\Exercício1.genruntimeconfig.cache
+C:\Users\2024102020030\Documents\LógicaDeProgramação\Exercício1\Exercício1\obj\Debug\net6.0\ref\Exercício1.dll
