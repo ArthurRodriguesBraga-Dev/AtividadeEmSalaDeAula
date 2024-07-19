@@ -1,0 +1,13 @@
+double numero;
+Console.WriteLine("Olá, iremos verificar se o valor digitado é divisível por 3 e 5");
+Console.Write("Digite o número: ");
+numero = Convert.ToDouble(Console.ReadLine());
+if (numero % 3 == 0 && numero % 5 == 0)
+{
+    Console.WriteLine("O número que você digitou é divisível por 3 ou por 5");
+}
+else
+{
+    Console.WriteLine("Não é divisível por 3 ou por 5");
+}
+Console.ReadKey();
