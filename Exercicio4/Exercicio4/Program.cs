@@ -1,0 +1,19 @@
+﻿double VelocidadeDoCarro;
+double diferenca;
+double multa;
+
+Console.WriteLine("Aqui iremos calcular a velocidade do seu carro");
+Console.Write("Digite desse jeito -> Exemplo: 100 (sem km/h)\nDigite a velocidade do carro: ");
+VelocidadeDoCarro = Convert.ToDouble(Console.ReadLine());
+if (VelocidadeDoCarro <= 80) 
+{
+    Console.WriteLine("Velocidade Permitida");
+}
+else
+{
+    Console.WriteLine("Infelizmente você irá receber uma multa.");
+    diferenca = VelocidadeDoCarro - 80;
+    multa = diferenca * 5;
+    Console.WriteLine($"Você terá que pagar R${multa} de multa");
+}
+Console.ReadKey();
